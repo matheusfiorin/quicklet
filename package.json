@@ -1,6 +1,6 @@
 {
   "name": "appio",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A quick setup of a NodeJS Rest API with ExpressJS and Sequelize ORM.",
   "main": "src/index.js",
   "bin": {
