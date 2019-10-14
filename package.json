@@ -1,0 +1,32 @@
+{
+  "name": "appio",
+  "version": "0.0.2",
+  "description": "A quick setup of a NodeJS Rest API with ExpressJS and Sequelize ORM.",
+  "main": "src/index.js",
+  "bin": {
+    "appio": "bin/appio"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "appio"
+  ],
+  "author": "Matheus Barão Fiorin",
+  "license": "MIT",
+  "dependencies": {
+    "arg": "^4.1.1",
+    "chalk": "^2.4.2",
+    "esm": "^3.2.25",
+    "execa": "^2.0.5",
+    "inquirer": "^7.0.0",
+    "listr": "^0.14.3",
+    "ncp": "^2.0.0",
+    "pkg-install": "^1.0.0"
+  }
+}
