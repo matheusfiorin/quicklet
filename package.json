@@ -1,23 +1,22 @@
 {
-  "name": "appio",
+  "name": "quicklet",
   "version": "0.0.1",
   "description": "A quick setup of a NodeJS Rest API with ExpressJS and Sequelize ORM.",
   "main": "src/index.js",
   "bin": {
-    "appio": "bin/appio"
+    "quicklet": "bin/quicklet"
   },
   "publishConfig": {
-    "access": "public",
-    "registry": "https://npm.pkg.github.com/"
+    "access": "public"
   },
   "scripts": {
     "test": "jest"
   },
   "keywords": [
     "cli",
-    "appio"
+    "quicklet"
   ],
-  "author": "Matheus Barão Fiorin",
+  "author": "@mathe",
   "license": "MIT",
   "dependencies": {
     "arg": "^4.1.1",

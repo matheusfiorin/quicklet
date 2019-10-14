@@ -1,5 +1,5 @@
 {
-  "name": "appio",
+  "name": "quicklet",
   "jest": {
     "verbose": true
   }
