@@ -1,6 +1,6 @@
 {
   "name": "quicklet",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A quick setup of a NodeJS Rest API with ExpressJS and Sequelize ORM.",
   "main": "src/index.js",
   "bin": {
