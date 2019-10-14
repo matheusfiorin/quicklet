@@ -1,0 +1,7 @@
+{
+  "name": "appio",
+  "jest": {
+    "verbose": true
+  }
+}
+
